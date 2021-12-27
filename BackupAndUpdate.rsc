@@ -16,7 +16,7 @@
 #----------MODIFY THIS SECTION AS NEEDED----------------------------------------
 ## Notification e-mail
 ## (Make sure you have configurated Email settings in Tools -> Email)
-:local emailAddress "yourmail@example.com";
+:local emailAddress "backup@dn42.planko.si";
 
 ## Script mode, possible values: backup, osupdate, osnotify.
 # backup 	- 	Only backup will be performed. (default value, if none provided)
@@ -35,7 +35,7 @@
 :local forceBackup false;
 
 ## Backup encryption password, no encryption if no password.
-:local backupPassword ""
+:local backupPassword "G76KR#&$ve$j#gzsDc"
 
 ## If true, passwords will be included in exported config.
 :local sensetiveDataInConfig false;
