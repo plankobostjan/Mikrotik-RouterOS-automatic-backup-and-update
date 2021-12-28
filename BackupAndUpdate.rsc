@@ -16,7 +16,7 @@
 #----------MODIFY THIS SECTION AS NEEDED----------------------------------------
 ## Notification e-mail
 ## (Make sure you have configurated Email settings in Tools -> Email)
-:local emailAddress "yourmail@example.com";
+:local emailAddress "rb750gr3@backup.planko.si";
 
 ## Script mode, possible values: backup, osupdate, osnotify.
 # backup 	- 	Only backup will be performed. (default value, if none provided)
